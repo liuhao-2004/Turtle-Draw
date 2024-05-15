@@ -157,7 +157,7 @@ while m:
     y_ += 20
     m -= 1
     lens -= 50
-name = "燕山大学"
+name = "school.name"
 t.penup()
 t.goto(25, 250)
 t.seth(-90)
